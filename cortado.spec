@@ -49,3 +49,21 @@ export OPT_JAR_LIST=:
 %{_javadir}/%{name}-mmjs-%{version}.jar
 %{_javadir}/%{name}-mmjs.jar
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0:0.2.2-0.0.3mdv2011.0
++ Revision: 617431
+- the mass rebuild of 2010.0 packages
+
+* Wed Sep 02 2009 Thierry Vignaud <tv@mandriva.org> 0:0.2.2-0.0.2mdv2010.0
++ Revision: 424993
+- rebuild
+
+* Mon Aug 18 2008 David Walluck <walluck@mandriva.org> 0:0.2.2-0.0.1mdv2009.0
++ Revision: 273149
+- import cortado
+
+
+* Sun Aug 17 2008 David Walluck <walluck@mandriva.org> 0:0.2.2-0.0.1
+- release
