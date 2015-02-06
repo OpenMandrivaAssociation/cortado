@@ -3,7 +3,7 @@
 
 Name:           cortado
 Version:        0.2.2
-Release:        %mkrel 0.0.3
+Release:        0.0.4
 Epoch:          0
 Summary:        Java media framework based on GStreamer's design
 Group:          Development/Java
