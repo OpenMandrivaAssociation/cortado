@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        Java media framework based on GStreamer's design
 Group:          Development/Java
 License:        GPLv2+/LGPLv2+/BSD
-URL:            http://www.flumotion.net/
+URL:            https://www.flumotion.net/
 Source0:        http://www.flumotion.net/src/cortado/cortado-%{version}.tar.gz
 BuildRequires:  ant
 BuildRequires:  java-rpmbuild
